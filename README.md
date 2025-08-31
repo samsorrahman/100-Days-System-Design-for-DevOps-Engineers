@@ -9,7 +9,7 @@ Welcome to the **100 Days of Project-Based DevOps Learning Plan**. This is a com
 The 100 days are divided into various stages, each focusing on different aspects of **DevOps** and **cloud-native technologies**.
 
 ### **Days 1–10: Advanced Architectural Concepts**
-- **Day 1–2**: Deep dive into **Domain-Driven Design (DDD)** concepts and implement in a sample application.
+- [Day 1–2: Deep dive into Domain-Driven Design (DDD) concepts and implement in a sample application](./Day1-2.md)
 - **Day 3–4**: Study **Event-Driven Architecture (EDA)** and set up a basic event bus using **Kafka**.
 - **Day 5–6**: Explore **CQRS** (Command Query Responsibility Segregation) and **Event Sourcing** patterns; apply them to a service.
 - **Day 7–8**: Learn about **service mesh technologies**; deploy **Istio** in a Kubernetes cluster and configure a sample microservices application.
