@@ -10,7 +10,7 @@ The 100 days are divided into various stages, each focusing on different aspects
 
 ### **Days 1–10: Advanced Architectural Concepts**
 - [Day 1–2: Deep dive into Domain-Driven Design (DDD) concepts and implement in a sample application](./Day1-2.md)
-- **Day 3–4**: Study **Event-Driven Architecture (EDA)** and set up a basic event bus using **Kafka**.
+- [**Day 3–4**: Study **Event-Driven Architecture (EDA)** and set up a basic event bus using **Kafka**](https://github.com/samsorrahman/100-Days-System-Design-for-DevOps-Engineers/tree/main/Day-3-4)
 - **Day 5–6**: Explore **CQRS** (Command Query Responsibility Segregation) and **Event Sourcing** patterns; apply them to a service.
 - **Day 7–8**: Learn about **service mesh technologies**; deploy **Istio** in a Kubernetes cluster and configure a sample microservices application.
 - **Day 9–10**: Implement a **saga pattern** for distributed transactions in microservices.
